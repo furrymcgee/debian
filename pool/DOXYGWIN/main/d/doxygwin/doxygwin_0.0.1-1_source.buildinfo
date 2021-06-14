@@ -1,0 +1,18 @@
+Format: 1.0
+Source: doxygwin
+Binary: doxygwin
+Architecture: source
+Version: 0.0.1-1
+Checksums-Md5:
+ a91ac38b647a7e215aef8439a1025094 848 doxygwin_0.0.1-1.dsc
+Checksums-Sha1:
+ 68d7ce9449492f007f2bc0772d9c4992cff18d32 848 doxygwin_0.0.1-1.dsc
+Checksums-Sha256:
+ 2c063c3efa22f82309838a163b091fd0d08fc3a81325b138be3c1122c9927882 848 doxygwin_0.0.1-1.dsc
+Build-Architecture: cygwin-i386
+Build-Date: Sun, 11 Jul 2021 09:08:49 -0700
+Environment:
+ DEB_BUILD_OPTIONS="parallel=1"
+ LANG="en_US.UTF-8"
+ MAKEFLAGS="w --debug=basic"
+ SOURCE_DATE_EPOCH="1626019715"
