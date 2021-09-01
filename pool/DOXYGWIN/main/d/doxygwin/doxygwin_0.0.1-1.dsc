@@ -10,11 +10,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  doxygwin deb unknown optional arch=all
 Checksums-Sha1:
- 9d63003cca49bc261657993f89f298db8c4ac350 1976316 doxygwin_0.0.1.orig.tar.xz
- e88125b466657bda9e4146625d74af0785db80e5 7784 doxygwin_0.0.1-1.debian.tar.xz
+ 4c69b91ee2e0d4a5fbe2891d60ae453e0828ed5d 1976308 doxygwin_0.0.1.orig.tar.xz
+ b631909eb1dea92433901c70fe60ab92f0cc9958 7792 doxygwin_0.0.1-1.debian.tar.xz
 Checksums-Sha256:
- 0711650327e8c432a872a278584ec51e70f40125fdc16e10d58a187b66da94db 1976316 doxygwin_0.0.1.orig.tar.xz
- 3276f83fc53c4007c298021cc1be31452d94ad819217872f836f0c9a9cb8b146 7784 doxygwin_0.0.1-1.debian.tar.xz
+ 51982f8c280cd9be25797df14a481cdcc099fc04fa39a5b0f0828d25b2287bf3 1976308 doxygwin_0.0.1.orig.tar.xz
+ bc50e6215fb39b60c545f93b0db97cf061d9e228bf6f96626929628053a8bf71 7792 doxygwin_0.0.1-1.debian.tar.xz
 Files:
- b87ba7e10eec4cfdfaad7f17450c0ceb 1976316 doxygwin_0.0.1.orig.tar.xz
- e226f97e99242b7c8c97605080d0580f 7784 doxygwin_0.0.1-1.debian.tar.xz
+ 812a25e2845021635080fb00fd40aa2b 1976308 doxygwin_0.0.1.orig.tar.xz
+ 07f2fbc617b40e168a91ebeacf45f73e 7792 doxygwin_0.0.1-1.debian.tar.xz

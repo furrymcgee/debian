@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Tue, 31 Aug 2021 14:53:03 -0700
+Date: Thu, 02 Sep 2021 13:55:43 -0700
 Source: doxygwin
 Architecture: source
 Version: 0.0.1-1
@@ -12,17 +12,17 @@ Changes:
  .
    * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 Checksums-Sha1:
- e65643084613b522ea6484f1fe0c62f68212f677 848 doxygwin_0.0.1-1.dsc
- 9d63003cca49bc261657993f89f298db8c4ac350 1976316 doxygwin_0.0.1.orig.tar.xz
- e88125b466657bda9e4146625d74af0785db80e5 7784 doxygwin_0.0.1-1.debian.tar.xz
- ea3992056d41d11c00ce802093c57e38860e6757 551 doxygwin_0.0.1-1_source.buildinfo
+ 62a61eebffe20510e2ed702179ddd25d5981a694 848 doxygwin_0.0.1-1.dsc
+ 4c69b91ee2e0d4a5fbe2891d60ae453e0828ed5d 1976308 doxygwin_0.0.1.orig.tar.xz
+ b631909eb1dea92433901c70fe60ab92f0cc9958 7792 doxygwin_0.0.1-1.debian.tar.xz
+ 3fa551885207d73ee5821d101c6388223c8c57a6 551 doxygwin_0.0.1-1_source.buildinfo
 Checksums-Sha256:
- 0b65f3543584a332b71746fc2a2d22069b1be378fbcc6be90b3f9effc13f9c2d 848 doxygwin_0.0.1-1.dsc
- 0711650327e8c432a872a278584ec51e70f40125fdc16e10d58a187b66da94db 1976316 doxygwin_0.0.1.orig.tar.xz
- 3276f83fc53c4007c298021cc1be31452d94ad819217872f836f0c9a9cb8b146 7784 doxygwin_0.0.1-1.debian.tar.xz
- 3f2cc4cc4540fb35d693e84b5d74ccb6bcb49e72645d8d2117b84068c5462ee4 551 doxygwin_0.0.1-1_source.buildinfo
+ 03bec892644131e71776b21835936ee51b0047f6ae0ce45b232d9e4c020a989d 848 doxygwin_0.0.1-1.dsc
+ 51982f8c280cd9be25797df14a481cdcc099fc04fa39a5b0f0828d25b2287bf3 1976308 doxygwin_0.0.1.orig.tar.xz
+ bc50e6215fb39b60c545f93b0db97cf061d9e228bf6f96626929628053a8bf71 7792 doxygwin_0.0.1-1.debian.tar.xz
+ d3cf1fa395d1ed2a9fed84ac98aae359fad4b9154dfaf0e5d59639805c76e046 551 doxygwin_0.0.1-1_source.buildinfo
 Files:
- 70dc99127b4321d4c2f2680a5d09059c 848 unknown optional doxygwin_0.0.1-1.dsc
- b87ba7e10eec4cfdfaad7f17450c0ceb 1976316 unknown optional doxygwin_0.0.1.orig.tar.xz
- e226f97e99242b7c8c97605080d0580f 7784 unknown optional doxygwin_0.0.1-1.debian.tar.xz
- 0e49a83ceef75e941fa195108e828639 551 unknown optional doxygwin_0.0.1-1_source.buildinfo
+ 2d8d4dcb7020cb6e62be7b566bea6f2e 848 unknown optional doxygwin_0.0.1-1.dsc
+ 812a25e2845021635080fb00fd40aa2b 1976308 unknown optional doxygwin_0.0.1.orig.tar.xz
+ 07f2fbc617b40e168a91ebeacf45f73e 7792 unknown optional doxygwin_0.0.1-1.debian.tar.xz
+ 820b97446c437fba1dd7736868456b82 551 unknown optional doxygwin_0.0.1-1_source.buildinfo

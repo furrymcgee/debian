@@ -4,15 +4,15 @@ Binary: doxygwin
 Architecture: source
 Version: 0.0.1-1
 Checksums-Md5:
- 70dc99127b4321d4c2f2680a5d09059c 848 doxygwin_0.0.1-1.dsc
+ 2d8d4dcb7020cb6e62be7b566bea6f2e 848 doxygwin_0.0.1-1.dsc
 Checksums-Sha1:
- e65643084613b522ea6484f1fe0c62f68212f677 848 doxygwin_0.0.1-1.dsc
+ 62a61eebffe20510e2ed702179ddd25d5981a694 848 doxygwin_0.0.1-1.dsc
 Checksums-Sha256:
- 0b65f3543584a332b71746fc2a2d22069b1be378fbcc6be90b3f9effc13f9c2d 848 doxygwin_0.0.1-1.dsc
+ 03bec892644131e71776b21835936ee51b0047f6ae0ce45b232d9e4c020a989d 848 doxygwin_0.0.1-1.dsc
 Build-Architecture: cygwin-i386
-Build-Date: Tue, 31 Aug 2021 14:53:20 -0700
+Build-Date: Thu, 02 Sep 2021 13:55:59 -0700
 Environment:
  DEB_BUILD_OPTIONS="parallel=1"
  LANG="en_US.UTF-8"
  MAKEFLAGS=" --debug=basic"
- SOURCE_DATE_EPOCH="1630446783"
+ SOURCE_DATE_EPOCH="1630616143"
